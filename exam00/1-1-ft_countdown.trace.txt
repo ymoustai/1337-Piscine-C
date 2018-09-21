@@ -1,0 +1,48 @@
+= Host-specific information ====================================================
+$> hostname; uname -msr
+e1r3p2.1337.ma
+Darwin 17.6.0 x86_64
+$> date
+Fri Aug 31 18:58:33 WEST 2018
+$> gcc --version
+Configured with: --prefix=/Applications/Xcode.app/Contents/Developer/usr --with-gxx-include-dir=/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/usr/include/c++/4.2.1
+Apple LLVM version 9.0.0 (clang-900.0.39.2)
+Target: x86_64-apple-darwin17.6.0
+Thread model: posix
+InstalledDir: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin
+$> clang --version
+Apple LLVM version 9.0.0 (clang-900.0.39.2)
+Target: x86_64-apple-darwin17.6.0
+Thread model: posix
+InstalledDir: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin
+
+= User files collection ========================================================
+Collecting user files from Vogsphere
+Repository URL: auto-exam/2018/piscine-c-exam00/exam_20180831/ymoustai
+
+= Git history ==================================================================
+$> git -C /var/folders/gh/pfnn9qqj65d7dj_49x2gswfh0000gq/T/tmpSqk4Pu/user log --pretty='%H - %an, %ad : %s'
+d96d90ba7f88ab77a1d5c0a8fb4f699f3a7e30bf - Exam 42, Fri Aug 31 18:58:14 2018 +0100 : pls work
+ad2e2337e5f33c50515c8f83610a5f256f9f94e1 - Exam 42, Fri Aug 31 18:50:19 2018 +0100 : ily moulinette
+6beae6f242fa4f573c7b91f73410c6d53b9d810a - Exam 42, Fri Aug 31 18:25:10 2018 +0100 : only_z
+ 
+= Collected files ==========================================
+$> ls -lAR /var/folders/gh/pfnn9qqj65d7dj_49x2gswfh0000gq/T/tmpSqk4Pu/user
+total 8
+-rw-r--r--  1 deepthought  deepthought  652 Aug 31 18:58 __GIT_HISTORY
+drwxr-xr-x  3 deepthought  deepthought  102 Aug 31 18:58 hello
+drwxr-xr-x  3 deepthought  deepthought  102 Aug 31 18:58 only_z
+
+/var/folders/gh/pfnn9qqj65d7dj_49x2gswfh0000gq/T/tmpSqk4Pu/user/hello:
+total 8
+-rw-r--r--  1 deepthought  deepthought  975 Aug 31 18:58 hello.c
+
+/var/folders/gh/pfnn9qqj65d7dj_49x2gswfh0000gq/T/tmpSqk4Pu/user/only_z:
+total 8
+-rw-r--r--  1 deepthought  deepthought  981 Aug 31 18:58 only_z.c
+ 
+= ft_countdown =================================================================
+Nothing turned in
+Grade: 0
+
+= Final grade: 0 ===============================================================

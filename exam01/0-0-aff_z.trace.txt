@@ -1,0 +1,29 @@
+= Host-specific information ====================================================
+$> hostname; uname -msr
+e2r12p4.1337.ma
+Darwin 16.7.0 x86_64
+$> date
+Fri Sep  7 18:38:17 WEST 2018
+$> gcc --version
+Configured with: --prefix=/Library/Developer/CommandLineTools/usr --with-gxx-include-dir=/usr/include/c++/4.2.1
+Apple LLVM version 9.0.0 (clang-900.0.39.2)
+Target: x86_64-apple-darwin16.7.0
+Thread model: posix
+InstalledDir: /Library/Developer/CommandLineTools/usr/bin
+$> clang --version
+Apple LLVM version 9.0.0 (clang-900.0.39.2)
+Target: x86_64-apple-darwin16.7.0
+Thread model: posix
+InstalledDir: /Library/Developer/CommandLineTools/usr/bin
+
+= User files collection ========================================================
+Collecting user files from Vogsphere
+Repository URL: auto-exam/2018/piscine-c-exam01/exam_20180907/ymoustai
+= Collected files ==========================================
+$> ls -lAR /var/folders/dh/55lmst5540v5rtsjsqxpss_r0000gq/T/tmp5M2Dm2/user
+ 
+= aff_z ========================================================================
+Nothing turned in
+Grade: 0
+
+= Final grade: 0 ===============================================================

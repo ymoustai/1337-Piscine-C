@@ -1,2 +1,2 @@
 # 1337
-Piscine-c 1337 <3
+Piscine-C 1337 <3

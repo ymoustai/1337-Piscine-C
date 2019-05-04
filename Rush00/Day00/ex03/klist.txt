@@ -1,5 +1,0 @@
-Credentials cache: API:1387
-        Principal: ymoustai@1337.MA
-
-  Issued                Expires               Principal
-Aug 27 18:46:27 2018  Aug 28 18:46:27 2018  krbtgt/1337.MA@1337.MA

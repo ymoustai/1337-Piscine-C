@@ -1,1 +1,0 @@
-chattr +i president.txt
